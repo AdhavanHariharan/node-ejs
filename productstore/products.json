@@ -1,0 +1,20 @@
+{
+"hi":"hello",
+"products":
+[
+    {
+        "Id": 1,
+        "Name": "Product 1",
+        "Image": "https://www.ulcdn.net/opt/www.ulcdn.net/images/products/182345/original/Lewis_Sofa_FNSF51LSDU30R00SAAAA_slide_00.jpg?1524295384",
+        "Price": "$5"
+    }
+    ,
+    {
+        "Id": 2,
+        "Name": "Product 2",
+        "Image": "https://www.ulcdn.net/opt/www.ulcdn.net/images/products/182345/original/Lewis_Sofa_FNSF51LSDU30R00SAAAA_slide_00.jpg?1524295384",
+        "Price": "$15"
+    }
+
+]
+}
